@@ -1,2 +1,4 @@
 # Geotech_paltas
-geotechnical knowledge powered with paltas
+༼ つ ◕_◕ ༽つ geotechnical knowledge powered with paltas
+
+
