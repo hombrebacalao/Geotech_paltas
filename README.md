@@ -1,4 +1,4 @@
-# GEOTECNICA
+# GEOTECNICAL ENGINEERING
 
 ## GEOLOGÍA / GEOLOGY
 - STRUCTURAL GEOLOGY, FOSSEN https://folk.uib.no/nglhe/StructuralGeoBook2ndEd.html
