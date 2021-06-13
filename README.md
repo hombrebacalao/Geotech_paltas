@@ -17,6 +17,7 @@
 ## CÓDIGO
 - MATLAB Renewable energies > http://www.sc.ehu.es/sbweb/energias-renovables/MATLAB/intro.html
 - PYTHON 
+- Open Source Spatial Data Analytics in Python with GeostatsPy, Short Course by Michael Pyrcz https://github.com/GeostatsGuy/GeostatsPy_Intro_Course
 
 ## OTRAS REF / OTHER REF
 - GEOTECHNICAL HISTORY https://www.geotechnicalhistory.org/
@@ -29,3 +30,4 @@
 - THE STRUCTURAL EXAM https://www.youtube.com/channel/UCRH-cGcs6d5od2E07ba6Ygg
 ### PLAYLISTS
 - PYTHON FOR GEOSCIENCES https://www.youtube.com/watch?v=FdatS_NKVrM&list=PLgLft9vxdduDm3W6i3qjT7s-ne4oTAvks
+- HOW DID THEY BUILD THAT https://www.youtube.com/playlist?list=PLo1_uWd0YBJJBPQ8c3yul4Flndj0RCfFj
