@@ -1,11 +1,11 @@
-# GEOTECNICAL ENGINEERING
+# GEOTECNICAL ENGINEERING COURSES, REFERENCES AND OTHER USEFUL RESOURCES
 
-## GEOLOGÍA / GEOLOGY
-- STRUCTURAL GEOLOGY, FOSSEN https://folk.uib.no/nglhe/StructuralGeoBook2ndEd.html
-- 
+# COURSES
+## ISSMGE VIRTUAL UNIVERSITY 
+- website http://virtualuniversity.issmge.org/courses
+- [ ] In-Situ Testing http://virtualuniversity.issmge.org/courses/course-v1:ISSMGE+TC102-001+2017/course/
+- [ ] Foundations http://virtualuniversity.issmge.org/courses/course-v1:ISSMGE+TC212-001+2016/course/
 
-## GEOFÍSICA / GEOPHYSICS
-- MANUAL DE APLICACIÓN DE TÉCNICAS GEOFÍSICAS BASADAS EN ONDAS DE SUPERFICIE PARA LA DETERMINACIÓN DEL PARÁMETRO VS30, IC, 2015 https://iconstruccion.cl/documentos_sitio/19049_manual.pdf
 
 # LIBROS / BOOKS
 - Excavation Systems Planning, Design, and Safety, Joe Turner https://www.amazon.com/-/es/Joe-Turner/dp/0071498699
@@ -31,3 +31,11 @@
 ### PLAYLISTS
 - PYTHON FOR GEOSCIENCES https://www.youtube.com/watch?v=FdatS_NKVrM&list=PLgLft9vxdduDm3W6i3qjT7s-ne4oTAvks
 - HOW DID THEY BUILD THAT https://www.youtube.com/playlist?list=PLo1_uWd0YBJJBPQ8c3yul4Flndj0RCfFj
+
+________________________________
+## GEOLOGÍA / GEOLOGY
+- STRUCTURAL GEOLOGY, FOSSEN https://folk.uib.no/nglhe/StructuralGeoBook2ndEd.html
+- 
+
+## GEOFÍSICA / GEOPHYSICS
+- MANUAL DE APLICACIÓN DE TÉCNICAS GEOFÍSICAS BASADAS EN ONDAS DE SUPERFICIE PARA LA DETERMINACIÓN DEL PARÁMETRO VS30, IC, 2015 https://iconstruccion.cl/documentos_sitio/19049_manual.pdf
