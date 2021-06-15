@@ -87,7 +87,7 @@ This is an h3 heading
 ## WEBSITES
 - SOFTWARE UNDERGROUND https://softwareunderground.org/
 
-## CÓDIGO
+## CÓDIGOs
 - MATLAB Renewable energies > http://www.sc.ehu.es/sbweb/energias-renovables/MATLAB/intro.html
 - PYTHON 
 - Open Source Spatial Data Analytics in Python with GeostatsPy, Short Course by Michael Pyrcz https://github.com/GeostatsGuy/GeostatsPy_Intro_Course
