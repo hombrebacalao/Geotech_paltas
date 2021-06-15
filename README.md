@@ -48,8 +48,8 @@
 - soilbook > a digital repository of soils https://www.soilbook.info/
 ________________________________
 ## GEOLOGY
-- GEOPORTAL
-  * 1
+- GEOPORTAL SERNAGEOMIN
+  * GEOLOGIA BASE http://portalgeomin.sernageomin.cl:6080/arcgis/rest/services/geoportal/GeologiaBase/MapServer
     + 2
 - GEOVIRTUAL, Wolfgang Griem https://www.geovirtual2.cl/ 
 - STRUCTURAL GEOLOGY, FOSSEN https://folk.uib.no/nglhe/StructuralGeoBook2ndEd.html
