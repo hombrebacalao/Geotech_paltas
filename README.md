@@ -13,7 +13,7 @@
 > This is a fixture to test heading levels
 <!-- toc -->
 
-## COURSES
+# COURSES (#heading)
 ### ISSMGE VIRTUAL UNIVERSITY 
 - website http://virtualuniversity.issmge.org/courses
 - In-Situ Testing http://virtualuniversity.issmge.org/courses/course-v1:ISSMGE+TC102-001+2017/course/
@@ -71,7 +71,6 @@ ________________________________
 
 
 
-## Heading
 
 This is an h1 heading
 
