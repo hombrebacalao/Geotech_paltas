@@ -23,16 +23,17 @@
 ## OTRAS REF / OTHER REF
 - GEOTECHNICAL HISTORY https://www.geotechnicalhistory.org/
 
-## YOUTUBE
-### VIDEOS
+### YOUTUBE VIDEOS
 - Finland Might Have Solved Nuclear Power’s Biggest Problem https://www.youtube.com/watch?v=kYpiK3W-g_0
-
-### CHANNELS
+### YOUTUBE CHANNELS
 - THE STRUCTURAL EXAM https://www.youtube.com/channel/UCRH-cGcs6d5od2E07ba6Ygg
-### PLAYLISTS
+### YOUTUBE PLAYLISTS
 - PYTHON FOR GEOSCIENCES https://www.youtube.com/watch?v=FdatS_NKVrM&list=PLgLft9vxdduDm3W6i3qjT7s-ne4oTAvks
 - HOW DID THEY BUILD THAT https://www.youtube.com/playlist?list=PLo1_uWd0YBJJBPQ8c3yul4Flndj0RCfFj
 
+### SOIL
+- SOILART > soil as an object of art @soiltart_msu
+- soilbook > a digital repository of soils https://www.soilbook.info/
 ________________________________
 ## GEOLOGÍA / GEOLOGY
 - STRUCTURAL GEOLOGY, FOSSEN https://folk.uib.no/nglhe/StructuralGeoBook2ndEd.html
