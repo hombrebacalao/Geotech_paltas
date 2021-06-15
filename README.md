@@ -1,4 +1,7 @@
 ## COURSES
+
+- [GEO5](### GEO5)
+
 ### ISSMGE VIRTUAL UNIVERSITY 
 - website http://virtualuniversity.issmge.org/courses
 - In-Situ Testing http://virtualuniversity.issmge.org/courses/course-v1:ISSMGE+TC102-001+2017/course/
@@ -10,20 +13,21 @@
 ### GEOSTUDIO
 ### ADONIS
 - http://www.geowizard.org/download_adonis.html
+- https://www.researchgate.net/project/ADONIS-A-Free-Nonlinear-Finite-Element-Program-for-Geo-Engineers
 ### HYRCAN SLOPE STABILITY
 - http://www.geowizard.org/download_hyrcan.html
 ### TEKLA CAMPUS
 - Tekla Structures for learning free download https://campus.tekla.com/
 
 
-## LIBROS / BOOKS
+## BOOKS
 - Excavation Systems Planning, Design, and Safety, Joe Turner https://www.amazon.com/-/es/Joe-Turner/dp/0071498699
 - Earth Retention Systems Handbook https://ipfs.io/ipfs/bafykbzaceblktt3242ll73cq3edg55uvfmseeh4lqrjqkvq6bjbhy43dum3pe?filename=Alan%20Macnab%20-%20Earth%20Retention%20Systems%20Handbook-McGraw-Hill%20Professional%20%282002%29.pdf
 
 ## WEBSITES
 - SOFTWARE UNDERGROUND https://softwareunderground.org/
 
-## CÓDIGOs
+## CODE
 - MATLAB Renewable energies > http://www.sc.ehu.es/sbweb/energias-renovables/MATLAB/intro.html
 - PYTHON 
 - Open Source Spatial Data Analytics in Python with GeostatsPy, Short Course by Michael Pyrcz https://github.com/GeostatsGuy/GeostatsPy_Intro_Course
@@ -43,10 +47,10 @@
 - SOILART > soil as an object of art @soiltart_msu
 - soilbook > a digital repository of soils https://www.soilbook.info/
 ________________________________
-## GEOLOGÍA / GEOLOGY
+## GEOLOGY
+- GEOVIRTUAL, Wolfgang Griem https://www.geovirtual2.cl/ 
 - STRUCTURAL GEOLOGY, FOSSEN https://folk.uib.no/nglhe/StructuralGeoBook2ndEd.html
-- 
 
-## GEOFÍSICA / GEOPHYSICS
+## GEOPHYSICS
 - MANUAL DE APLICACIÓN DE TÉCNICAS GEOFÍSICAS BASADAS EN ONDAS DE SUPERFICIE PARA LA DETERMINACIÓN DEL PARÁMETRO VS30, IC, 2015 https://iconstruccion.cl/documentos_sitio/19049_manual.pdf
 
