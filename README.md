@@ -4,7 +4,15 @@
 - In-Situ Testing http://virtualuniversity.issmge.org/courses/course-v1:ISSMGE+TC102-001+2017/course/
 - Foundations http://virtualuniversity.issmge.org/courses/course-v1:ISSMGE+TC212-001+2016/course/
 
-## TEKLA CAMPUS
+## SOFTWARE
+### ROCKSCIENCE
+### GEO5
+### GEOSTUDIO
+### ADONIS
+- http://www.geowizard.org/download_adonis.html
+### HYRCAN SLOPE STABILITY
+- http://www.geowizard.org/download_hyrcan.html
+### TEKLA CAMPUS
 - Tekla Structures for learning free download https://campus.tekla.com/
 
 
