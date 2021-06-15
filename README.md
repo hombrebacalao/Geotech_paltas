@@ -49,6 +49,7 @@
 ________________________________
 ## GEOLOGY
 - GEOPORTAL SERNAGEOMIN
+  * CATALOGO NACIONAL DE INFORMACIÓN GEOLÓGICA Y MINERA https://portalgeominbeta.sernageomin.cl/ 
   * GEOLOGIA BASE http://portalgeomin.sernageomin.cl:6080/arcgis/rest/services/geoportal/GeologiaBase/MapServer
     + 2
 - GEOVIRTUAL, Wolfgang Griem https://www.geovirtual2.cl/ 
