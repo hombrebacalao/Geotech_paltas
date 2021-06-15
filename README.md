@@ -1,4 +1,4 @@
-- [Heading](#heading)
+- [COURSES](#heading)
   * [Sub-heading](#sub-heading)
     + [Sub-sub-heading](#sub-sub-heading)
 - [Heading](#heading-1)
@@ -15,7 +15,7 @@
 
 <!-- toc -->
 
-## Heading
+## COURSES
 
 This is an h1 heading
 
