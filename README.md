@@ -13,7 +13,7 @@
 > This is a fixture to test heading levels
 <!-- toc -->
 
-# COURSES (#heading)
+## COURSES (#heading)
 ### ISSMGE VIRTUAL UNIVERSITY 
 - website http://virtualuniversity.issmge.org/courses
 - In-Situ Testing http://virtualuniversity.issmge.org/courses/course-v1:ISSMGE+TC102-001+2017/course/
@@ -55,19 +55,6 @@ ________________________________
 
 ## GEOFÍSICA / GEOPHYSICS
 - MANUAL DE APLICACIÓN DE TÉCNICAS GEOFÍSICAS BASADAS EN ONDAS DE SUPERFICIE PARA LA DETERMINACIÓN DEL PARÁMETRO VS30, IC, 2015 https://iconstruccion.cl/documentos_sitio/19049_manual.pdf
-
-
-
-- [Heading](#heading)
-  * [Sub-heading](#sub-heading)
-    + [Sub-sub-heading](#sub-sub-heading)
-- [Heading](#heading-1)
-  * [Sub-heading](#sub-heading-1)
-    + [Sub-sub-heading](#sub-sub-heading-1)
-- [Heading](#heading-2)
-  * [Sub-heading](#sub-heading-2)
-    + [Sub-sub-heading](#sub-sub-heading-2)
-
 
 
 
