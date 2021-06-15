@@ -6,6 +6,9 @@
 - [ ] In-Situ Testing http://virtualuniversity.issmge.org/courses/course-v1:ISSMGE+TC102-001+2017/course/
 - [ ] Foundations http://virtualuniversity.issmge.org/courses/course-v1:ISSMGE+TC212-001+2016/course/
 
+# TEKLA CAMPUS
+- Tekla Structures for learning free download https://campus.tekla.com/
+
 
 # LIBROS / BOOKS
 - Excavation Systems Planning, Design, and Safety, Joe Turner https://www.amazon.com/-/es/Joe-Turner/dp/0071498699
