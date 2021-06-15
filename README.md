@@ -70,7 +70,7 @@ This is an h3 heading
 > This is a fixture to test heading levels
 <!-- toc -->
 
-## COURSES (#heading)
+## aa (#heading)
 ### ISSMGE VIRTUAL UNIVERSITY 
 - website http://virtualuniversity.issmge.org/courses
 - In-Situ Testing http://virtualuniversity.issmge.org/courses/course-v1:ISSMGE+TC102-001+2017/course/
