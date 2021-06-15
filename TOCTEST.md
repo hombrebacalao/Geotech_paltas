@@ -16,6 +16,16 @@
 <!-- toc -->
 
 ## Cursos
+This is an h1 heading
+This is an h1 heading
+This is an h1 heading
+This is an h1 heading
+This is an h1 heading
+This is an h1 heading
+This is an h1 heading
+This is an h1 heading
+This is an h1 heading
+This is an h1 heading
 
 This is an h1 heading
 
