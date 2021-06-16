@@ -59,9 +59,10 @@ ________________________________
 - GEOPORTAL SERNAGEOMIN
   * CATALOGO NACIONAL DE INFORMACIÓN GEOLÓGICA Y MINERA https://portalgeominbeta.sernageomin.cl/ 
   * GEOLOGIA BASE http://portalgeomin.sernageomin.cl:6080/arcgis/rest/services/geoportal/GeologiaBase/MapServer
-    + 2
+    + otro link
 - GEOVIRTUAL, Wolfgang Griem https://www.geovirtual2.cl/ 
 - STRUCTURAL GEOLOGY, FOSSEN https://folk.uib.no/nglhe/StructuralGeoBook2ndEd.html
+- PHYSICAL GEOLOGY, University of Saskatchewan https://openpress.usask.ca/physicalgeology/
 
 ## GEOPHYSICS
 - MANUAL DE APLICACIÓN DE TÉCNICAS GEOFÍSICAS BASADAS EN ONDAS DE SUPERFICIE PARA LA DETERMINACIÓN DEL PARÁMETRO VS30, IC, 2015 https://iconstruccion.cl/documentos_sitio/19049_manual.pdf
