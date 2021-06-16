@@ -63,6 +63,8 @@ ________________________________
 - GEOVIRTUAL, Wolfgang Griem https://www.geovirtual2.cl/ 
 - STRUCTURAL GEOLOGY, FOSSEN https://folk.uib.no/nglhe/StructuralGeoBook2ndEd.html
 - PHYSICAL GEOLOGY, University of Saskatchewan https://openpress.usask.ca/physicalgeology/
+- INTRODUCTION TO GEOMATICS, University of Saskatchewan https://openpress.usask.ca/introgeomatics/
+- Introductory Physical Geology Laboratory Manual 2020 01, University of Saskatchewan https://openpress.usask.ca/geolmanual/
 
 ## GEOPHYSICS
 - MANUAL DE APLICACIÓN DE TÉCNICAS GEOFÍSICAS BASADAS EN ONDAS DE SUPERFICIE PARA LA DETERMINACIÓN DEL PARÁMETRO VS30, IC, 2015 https://iconstruccion.cl/documentos_sitio/19049_manual.pdf
