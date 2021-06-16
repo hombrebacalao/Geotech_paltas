@@ -29,6 +29,9 @@ If you have more interesting material, links, resources, edit this repo and let'
 - Excavation Systems Planning, Design, and Safety, Joe Turner https://www.amazon.com/-/es/Joe-Turner/dp/0071498699
 - Earth Retention Systems Handbook https://ipfs.io/ipfs/bafykbzaceblktt3242ll73cq3edg55uvfmseeh4lqrjqkvq6bjbhy43dum3pe?filename=Alan%20Macnab%20-%20Earth%20Retention%20Systems%20Handbook-McGraw-Hill%20Professional%20%282002%29.pdf
 
+## PAPERS
+- Overview of Constitutive Models For Soils, Lade 2005, https://www.researchgate.net/publication/268592022_Overview_of_Constitutive_Models_For_Soils
+
 ## WEBSITES
 - SOFTWARE UNDERGROUND https://softwareunderground.org/
 
