@@ -1,11 +1,16 @@
+A personal collection of resources that are open and available from their original source.
+If you have more interesting material, links, resources, edit this repo and let's work together.
+
 ## COURSES
 
-- [GEO5](### GEO5)
+- ### ISRM COURSES COLLECTION
+  + ISRM courses page https://www.isrm.net/gca/?id=912 
+  + Rock Engineering Practice, PROF Zhao Jian https://www.isrm.net/gca/index.php?id=1480
 
-### ISSMGE VIRTUAL UNIVERSITY 
-- website http://virtualuniversity.issmge.org/courses
-- In-Situ Testing http://virtualuniversity.issmge.org/courses/course-v1:ISSMGE+TC102-001+2017/course/
-- Foundations http://virtualuniversity.issmge.org/courses/course-v1:ISSMGE+TC212-001+2016/course/
+- ### ISSMGE VIRTUAL UNIVERSITY 
+  + website http://virtualuniversity.issmge.org/courses
+  + In-Situ Testing http://virtualuniversity.issmge.org/courses/course-v1:ISSMGE+TC102-001+2017/course/
+  + Foundations http://virtualuniversity.issmge.org/courses/course-v1:ISSMGE+TC212-001+2016/course/
 
 ## SOFTWARE
 ### ROCKSCIENCE
