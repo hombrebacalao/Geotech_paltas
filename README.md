@@ -54,6 +54,7 @@ If you have more interesting material, links, resources, edit this repo and add 
 ### SOIL
 - SOILART > soil as an object of art @soiltart_msu
 - soilbook > a digital repository of soils https://www.soilbook.info/
+- how to identify soil colorhttps://www.youtube.com/watch?v=JLWT7Gl-9YE
 ________________________________
 ## GEOLOGY
 - GEOPORTAL SERNAGEOMIN
