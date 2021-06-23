@@ -43,6 +43,11 @@ If you have more interesting material, links, resources, edit this repo and add 
 ## OTRAS REF / OTHER REF
 - GEOTECHNICAL HISTORY https://www.geotechnicalhistory.org/
 
+# WEBINARS
+- AGS 2020 The Standard Penetration Test: its origin, evolution and future https://www.ags.org.uk/item/the-standard-penetration-test-its-origin-evolution-and-future/
+- AGS 2021 GROUND RISK: LANDSLIDE RISK REDUCTION https://www.ags.org.uk/item/webinar-ground-risk-landslide-risk-reduction/
+
+
 ### YOUTUBE VIDEOS
 - Finland Might Have Solved Nuclear Power’s Biggest Problem https://www.youtube.com/watch?v=kYpiK3W-g_0
 ### YOUTUBE CHANNELS
